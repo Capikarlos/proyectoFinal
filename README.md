@@ -27,28 +27,6 @@
 * **I/O Completo:** Carga imágenes de cualquier formato y exporta el resultado limpio (sin guías).
 * **UI Moderna:** Interfaz basada en `CustomTkinter` con tema oscuro y panel de control lateral.
 
----
-
-## 🛠️ Instalación
-
-1.  **Clonar el repositorio**
-    ```bash
-    git clone [https://github.com/tu-usuario/mesh-warp-studio.git](https://github.com/tu-usuario/mesh-warp-studio.git)
-    cd mesh-warp-studio
-    ```
-
-2.  **Instalar dependencias**
-    El proyecto requiere librerías de cálculo matricial y visión por computadora.
-    ```bash
-    pip install opencv-python numpy customtkinter pillow
-    ```
-
-3.  **Ejecutar**
-    ```bash
-    python proyecto_final_v4.py
-    ```
-
----
 
 ## Controles
 
@@ -79,7 +57,7 @@ Este proyecto fue desarrollado por estudiantes de **Ingeniería en Inteligencia 
 * **Arturo Salazar Soto**
 * **Alejandro Esponda Meza**
 * **Dante Molina López**
-* **Carlos López**
+* **Carlos Antonio López**
 
 ---
 
